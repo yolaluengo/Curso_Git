@@ -1,0 +1,185 @@
+    1  git config --global user.nome "dully luengo"
+    2  git config --global user.email "marcelaq317@gmail.com>"
+    3  git confit user.nome
+    4  clear
+    5  git cofig  --global user.nome "dully luengo"
+    6  clear
+    7  git config --global user.nome "dully luengo"
+    8  git config --global email"marcelaq317@gmail.com>
+    9  clear
+   10    clear
+   11  clear
+   12  git config --global use.nome "dully luengo"
+   13  git config --global user.email "marcelaq317@gmail.cim"
+   14  clear
+   15  git config --global user.nome "dully luengo"
+   16  git confit --global user,email 'marcelaq317@gmail.com>'
+   17  clear
+   18  giy config --global user,nome 'dully luengo'
+   19  clear
+   20  git config --global user,nome "dully luengo"
+   21  git config --global user.nome "dully luengo"
+   22  git config --global user,enail "marcelaq317@gmail.com"
+   23  clear
+   24  git config --global user.nome "dully luengo"
+   25  git config --global user,email "marcelaq317@gmail.com"
+   26  git config --global user.nome "dully luengo"
+   27  git config --global user,email "marcelaq317@gmail.com"
+   28  git config --global user.nome "dully luengo"
+   29  git confit --global user,email 'marcelaq317@emai.com>'
+   30  clear
+   31  git config --global user,nome "dully luengo"
+   32  git config --global user.nome "dully luengo"
+   33  git config --global user,email "marcelaq317@email.com"
+   34  git config --global user "dully luengo"
+   35  cleae
+   36  clear
+   37  clear
+   38  git log
+   39  git log --pretty=oneline
+   40  git log --stat
+   41  que
+   42  git log -P
+   43  git log --pretty=oneline -2
+   44  git status
+   45  touch teste
+   46  git add teste
+   47  git status
+   48  git commit -m "Commit de  teste"
+   49  git log
+   50  git reset --soft HEAD~
+   51  git log
+   52  git status
+   53  git commit -m "Commit de teste"
+   54  git log
+   55  git reset --hard
+   56  git reset --hard HEAD~
+   57  git status
+   58  git log --pretty=oneline
+   59  git checkout HEAD~~
+   60  git log
+   61  ls
+   62  git checkout master
+   63  clear
+   64  mkdir .vscode
+   65  mv conf .txt
+   66  ls .vscode
+   67  ls .vscode/
+   68  history 
+   69  history > Aula_4.txt
+   70  git add
+   71  git commit -m "comando do Aula 4"
+   72  histori -c clear
+   73  clear
+   74  git branch
+   75  git checkout -b feature
+   76  touch Nova_feature
+   77  git status
+   78  git add Nova_feature
+   79  git log
+   80  clear
+   81  git branch
+   82  clear
+   83  git checkout feature
+   84  git branches
+   85  git checkout -b feature
+   86  clear
+   87  git branch
+   88  git branch
+   89  git remoto add origin https://github.com/dulyl/curso_git.git
+   90  clear
+   91  git remoto
+   92  git push origin master
+   93  pwd
+   94  ls
+   95  pwd
+   96  cd desktop
+   97  git rm -rf .git
+   98  rm -rf .git
+   99  mkdir projetogit
+  100  cd projetogit
+  101  touch github.txt
+  102  git status
+  103  git init
+  104  git status
+  105  git add
+  106  cd desktop 
+  107  cd projetogit
+  108  git add .
+  109  git status
+  110  git commit -m "creando mi primer arquivo"
+  111  git status
+  112  clear
+  113  clear
+  114  git config user.nome "dully luengo"
+  115  git config --global user.nome "dully luengo"
+  116  git config --global user.email "marcelaq317@gmail.com"
+  117  git config user.nome
+  118  git config user.email
+  119  cd desktot/
+  120  cd desktop/
+  121  ls
+  122  mkdir curso-Git
+  123  clear
+  124  git remote add origin https://github.com/dulyl/projetogit.git
+  125  clear
+  126  mkdir curso_Git
+  127  git init
+  128  git status
+  129  echo "#Aprendendo usar o Git" > readme.md
+  130  git status
+  131  git add readme.md
+  132  git status
+  133  git commit -m "commit inicial"
+  134  git status
+  135  echo "##Aula 1" >> readme.md
+  136  git status
+  137  echo "dully luengo" > participante.txt
+  138  git status
+  139  git add .
+  140  git status
+  141  git restore -- staged .
+  142  git restore --staged participantes.txt
+  143  git restore --staged "participantes.txt"
+  144  git restore --stagrd participantes,txt
+  145  history
+  146  clear
+  147  git config --global user.nome "duly luengo"
+  148  git config --global user.email "marcelaq317@emailclear
+  149  clear
+  150  git config --global user.name "dully luengo"
+  151  git config --global user.email "marcelaq317@email.com"
+  152  git confit user.name
+  153  clear
+  154  git config --global user.name "dully luengo"
+  155  git config --global user.email "marcelaq317@gmail.com"
+  156  git config user.name
+  157  git config user.email
+  158  cd Desktop/
+  159  mkdir Curso_Git
+  160  cd Curso_Git/
+  161  git config user.name
+  162  git init
+  163  git status
+  164  echo "#Aprendendo usar o Git" > readme.md
+  165  git status
+  166  git add readme.md
+  167  git status
+  168  git commit -m "commit inicial"
+  169  git status
+  170  echo "##Aula 1" >> readme.md
+  171  git status
+  172  echo "dully luengo" > participantes.txt
+  173  git status
+  174  git add .
+  175  git status
+  176  git restore --staged participantes.txt
+  177  git status
+  178  git restore --staged .
+  179  git status
+  180  git commit -am "alteraçao no readme"
+  181  git status
+  182  git add participantes.txt
+  183  git status
+  184  git commit -m "Adicionado participantes.txt"
+  185  history > Aula_3.txt
